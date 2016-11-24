@@ -1,0 +1,31 @@
+
+    .btn1
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:0;
+    right:100;
+    top:0;
+    z-index:1;
+    background-color: firebrick;
+    border: 2;
+}
+
+    .btn2
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:100px;
+    right:0;
+    top:0;
+    z-index:1;
+    background-color: coral;
+    border: 2;
+}
+
+body {background-image: url(http://www.ranczapotok.si/wp-content/uploads/2016/06/pizza-1.jpg);
+            background-size: cover;}
+    
+
