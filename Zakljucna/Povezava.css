@@ -1,3 +1,16 @@
+.naslov {
+          
+    background-color: lightgrey;
+    width: 1480px;
+    border: 40px solid #7CB9E8;
+    padding: 8px ;
+    margin: 0px;
+}
+
+.test {
+    width: 0px;
+
+}
 
     .btn1
 {
@@ -6,10 +19,11 @@
     height:30px;
     left:0;
     right:100;
-    top:0;
+    top:122px;
     z-index:1;
     background-color: firebrick;
     border: 2;
+    margin-left: 490px;
 }
 
     .btn2
@@ -19,11 +33,80 @@
     height:30px;
     left:100px;
     right:0;
-    top:0;
+    top:122px;
     z-index:1;
     background-color: coral;
     border: 2;
+    margin-left: 490px;
 }
+
+ .btn3
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:200px;
+    right:0;
+    top:122px;
+    background-color: green;
+    border: 2;
+    margin-left: 490px;
+}
+
+ .btn4
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:300px;
+    right:0;
+    top:122px;
+    z-index:1;
+    background-color: yellow;
+    border: 2;
+    margin-left: 490px;
+}
+
+ .btn5
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:500px;
+    right:0;
+    top:122px;
+    background-color: brown;
+    border: 2;
+    margin-left: 390px;
+}
+
+   .btn6
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:600px;
+    right:0;
+    top:122px;
+    background-color: navajowhite;
+    border: 2;
+    margin-left: 490px;
+}
+
+ .btn7
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:200px;
+    right:0;
+    top:122px;
+    background-color: fuchsia;
+    border: 2;
+    margin-left: 790px;
+}
+
+
 
 body {background-image: url(http://www.ranczapotok.si/wp-content/uploads/2016/06/pizza-1.jpg);
             background-size: cover;}
