@@ -1,16 +1,20 @@
+
 .naslov {
-          
-    background-color: lightgrey;
+    
     width: 1480px;
     border: 40px solid #7CB9E8;
     padding: 8px ;
     margin: 0px;
+    border-top: 70px;
 }
 
-.test {
-    width: 0px;
-
+img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
 }
+
 
     .btn1
 {
@@ -19,11 +23,11 @@
     height:30px;
     left:0;
     right:100;
-    top:122px;
+    top:88px;
     z-index:1;
-    background-color: firebrick;
+    background-color: darkorange;
     border: 2;
-    margin-left: 490px;
+    margin-left: 890px;
 }
 
     .btn2
@@ -33,11 +37,11 @@
     height:30px;
     left:100px;
     right:0;
-    top:122px;
+    top:88px;
     z-index:1;
-    background-color: coral;
+    background-color: darkorange;
     border: 2;
-    margin-left: 490px;
+    margin-left: 890px;
 }
 
  .btn3
@@ -47,10 +51,10 @@
     height:30px;
     left:200px;
     right:0;
-    top:122px;
-    background-color: green;
+    top:88px;
+    background-color: darkorange;
     border: 2;
-    margin-left: 490px;
+    margin-left: 890px;
 }
 
  .btn4
@@ -60,11 +64,11 @@
     height:30px;
     left:300px;
     right:0;
-    top:122px;
+    top:88px;
     z-index:1;
-    background-color: yellow;
+    background-color: darkorange;
     border: 2;
-    margin-left: 490px;
+    margin-left: 890px;
 }
 
  .btn5
@@ -74,10 +78,10 @@
     height:30px;
     left:500px;
     right:0;
-    top:122px;
-    background-color: brown;
+    top:88px;
+    background-color: darkorange;
     border: 2;
-    margin-left: 390px;
+    margin-left: 790px;
 }
 
    .btn6
@@ -87,10 +91,10 @@
     height:30px;
     left:600px;
     right:0;
-    top:122px;
-    background-color: navajowhite;
+    top:88px;
+    background-color: darkorange;
     border: 2;
-    margin-left: 490px;
+    margin-left: 888px;
 }
 
  .btn7
@@ -100,15 +104,211 @@
     height:30px;
     left:200px;
     right:0;
-    top:122px;
-    background-color: fuchsia;
+    top:88px;
+    background-color: darkorange;
     border: 2;
-    margin-left: 790px;
+    margin-left: 1190px;
+}
+
+img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
 }
 
 
+head. {
+  
+    color: lightgray;
+    top:500px;
+  
+} 
 
-body {background-image: url(http://www.ranczapotok.si/wp-content/uploads/2016/06/pizza-1.jpg);
-            background-size: cover;}
+
+ .slika
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:200px;
+    right:0;
+    top:88px;
+    background-color: lightgray;
+    border: 2;
+    margin-left: 1190px;
+}
+
+div.image {
+   width:500px; 
+   height:400px; 
+   background-image:url(pizza.jpg);
+   margin:0; 
+   padding:0;
+
+}
+
+div.txt1 {
     
+   position:absolute;
+   width:500px; 
+   height:400px; 
+   background-image:url();
+   margin:180px; 
+   padding:30px;
+   background-color: lightgray;
+   top:70px;
+
+}
+
+div.txt2 {
+    
+   position:absolute;
+   width:500px; 
+   height:400px;
+   margin:180px; 
+   padding:30px;
+   background-color: lightgray;
+   top:500px;
+   left: 520px;
+
+}
+
+ .btn9
+{
+    position:absolute;
+    width:100px;
+    height:30px;
+    left:200px;
+    right:0;
+    top:88px;
+    background-color: lightgray;
+    border: 2;
+    margin-left: 1190px;
+}
+
+
+div.tekst2 {
+    
+   position:absolute;
+   width:500px; 
+   height:400px;
+   margin:180px; 
+   padding:30px;
+   background-color: lightgray;
+   top:50px;
+   left: 0px;
+
+}
+div.tekst1 {
+    
+   position:absolute;
+   width:500px; 
+   height:400px;
+   margin:180px; 
+   padding:30px;
+   background-color: lightgray;
+   top:50px;
+   left: 520px;
+
+}
+
+
+div.tekst2 {
+    
+   position: absolute;
+   width:500px; 
+   height:400px;
+   margin:180px; 
+   padding:30px;
+   background-color: lightgray;
+   top:50px;
+   left: 0px;
+   z-index: 30;
+    
+    
+
+}
+div.tekst1 {
+    
+   position:absolute;
+   width:500px; 
+   height:400px;
+   margin:180px; 
+   padding:30px;
+   background-color: lightgray;
+   top:50px;
+   left: 520px;
+    
+
+}
+div.slika1 {
+   width:500px; 
+   height:400px; 
+   background-image:url();
+   margin:180px; 
+   border-top: 50px;
+   top:70px;
+   position:absolute;
+   left: 520px;
+    background-color: lightgray;
+    z-index: 30;
+    
+
+
+}
+
+div.slika2 {
+   width:500px; 
+   height:400px; 
+   background-image:url();
+   margin:180px; 
+   border-top: 50px;
+   top:500px;
+   position:absolute;
+   left: 0px;
+    background-color: lightgray;
+    z-index: 30;
+  
+    
+}
+
+div.slika5 {
+    
+   position:absolute;
+   width:500px; 
+   height:400px;
+   margin:180px; 
+   padding:30px;
+   background-color: lightgray;
+   top:950px;
+   left: 0px;
+    z-index: 20;
+    
+
+}
+div.txt5 {
+    
+   position:absolute;
+   width:500px; 
+   height:400px;
+   margin:180px; 
+   padding:30px;
+   background-color: lightgray;
+   top:950px;
+   left: 520px;
+    z-index: 30;
+
+
+}
+
+body {background-image: url(pizza.jpg);
+            background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+    
+
+
+
 
