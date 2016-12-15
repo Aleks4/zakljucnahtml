@@ -1,8 +1,0 @@
-boot strap
-jquary
-photoscape
-css
-html-osnove
-turnkey
-github
-zakljucna-naloga-opis
